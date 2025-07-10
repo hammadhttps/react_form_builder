@@ -67,3 +67,7 @@ export default tseslint.config([
   },
 ])
 ```
+
+
+<img width="1525" height="848" alt="Vite-React-TS-07-10-2025_06_53_PM" src="https://github.com/user-attachments/assets/31439d6e-85d9-4456-9b6d-e9feedf7f764" />
+
